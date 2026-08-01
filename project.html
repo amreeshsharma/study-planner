@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Study Planner Dashboard</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <aside class="sidebar">
+        <h2>📚 Study Planner</h2>
+
+        <button id="themeBtn">🌙 Dark Mode</button>
+
+        <div class="progress-box">
+            <h3>Progress</h3>
+            <div class="progress-bar">
+                <div id="progress"></div>
+            </div>
+            <p id="progressText">0% Completed</p>
+        </div>
+    </aside>
+
+    <main class="main-content">
+
+        <h1>Today's Tasks</h1>
+
+        <div class="task-input">
+            <input type="text" id="taskInput" placeholder="Enter a task">
+            <button onclick="addTask()">Add Task</button>
+        </div>
+
+        <ul id="taskList"></ul>
+
+    </main>
+
+</div>
+
+<script src="project.js"></script>
+
+</body>
+</html>

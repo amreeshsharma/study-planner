@@ -1,10 +1,8 @@
-# 📚 Study Planner Dashboard
+ 📚 Study Planner Dashboard
 
 A modern and fully responsive **Study Planner Dashboard** built using **HTML, CSS, and JavaScript**. This project helps students organize their daily study tasks, monitor their progress, and stay productive with a clean and user-friendly interface.
 
----
-
-## 🚀 Features
+🚀 Features
 
 * ✅ Add new study tasks
 * ✅ Mark tasks as completed
@@ -15,31 +13,25 @@ A modern and fully responsive **Study Planner Dashboard** built using **HTML, CS
 * ✅ Fully responsive design
 * ✅ Clean and modern UI/UX
 
----
-
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 * **HTML5** – Structure of the application
 * **CSS3** – Styling and responsive design
 * **JavaScript (ES6)** – Functionality and interactivity
 * **Local Storage API** – Save tasks even after refreshing the page
 
----
+ 📂 Project Structure
 
-## 📂 Project Structure
-
-```text
+text
 study-planner/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
 
----
 
-## 📱 Responsive Design
+ 📱 Responsive Design
 
 This project is designed with a **Mobile-First** approach and works smoothly on:
 
@@ -55,9 +47,9 @@ Responsive techniques used:
 * Relative Units (%, rem)
 * Fluid Layouts
 
----
 
-## 🎯 How to Run the Project
+
+🎯 How to Run the Project
 
 1. Download or clone this repository.
 2. Open the project folder.
@@ -66,11 +58,9 @@ Responsive techniques used:
 
 No installation or additional software is required.
 
----
+ 📸 Preview
 
-## 📸 Preview
-
-### Dashboard Features
+ Dashboard Features
 
 * Responsive Sidebar
 * Task Management
@@ -78,9 +68,9 @@ No installation or additional software is required.
 * Dark Mode
 * Local Storage Support
 
----
 
-## 📖 Learning Objectives
+
+ 📖 Learning Objectives
 
 This project helps you understand:
 
@@ -92,9 +82,7 @@ This project helps you understand:
 * Responsive UI/UX Design
 * Clean project organization
 
----
-
-## 🔮 Future Improvements
+ 🔮 Future Improvements
 
 Some exciting features that can be added in future versions:
 
@@ -109,17 +97,14 @@ Some exciting features that can be added in future versions:
 * 📈 Weekly and Monthly Reports
 * 🌐 Progressive Web App (PWA)
 
----
 
-## 🤝 Contributing
+ 🤝 Contributing
 
 Contributions are welcome!
 
 If you have ideas for improvements or discover any issues, feel free to fork the repository, create a new branch, and submit a pull request.
 
----
-
-## 👨‍💻 Author
+👨‍💻 Author
 
 **Amreesh Sharma**
 
@@ -127,12 +112,8 @@ B.Tech Computer Science Engineering (CSE)
 
 ITM University, Gwalior
 
----
-
-## ⭐ Support
+ ⭐ Support
 
 If you found this project helpful, consider giving it a **⭐ Star** on GitHub. It motivates me to build more useful projects and share them with the community.
 
----
-
-### Thank you for visiting this project! Happy Coding! 🚀
+ Thank you for visiting this project! Happy Coding! 🚀

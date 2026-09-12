@@ -2,7 +2,7 @@
 
 A modern and fully responsive **Study Planner Dashboard** built using **HTML, CSS, and JavaScript**. This project helps students organize their daily study tasks, monitor their progress, and stay productive with a clean and user-friendly interface.
 
-🚀 Features
+<b>🚀 Features<b>
 
 * ✅ Add new study tasks
 * ✅ Mark tasks as completed

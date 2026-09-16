@@ -20,7 +20,7 @@ A modern and fully responsive **Study Planner Dashboard** built using **HTML, CS
 * **JavaScript (ES6)** – Functionality and interactivity
 * **Local Storage API** – Save tasks even after refreshing the page
 
-## 📂 Project Structure
+##📂 Project Structure
 
 text
 study-planner/

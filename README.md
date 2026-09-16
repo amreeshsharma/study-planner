@@ -58,7 +58,7 @@ Responsive techniques used:
 
 No installation or additional software is required.
 
- 📸 Preview
+ ##📸 Preview
 
  Dashboard Features
 

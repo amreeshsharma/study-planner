@@ -49,7 +49,7 @@ Responsive techniques used:
 
 
 
-🎯 How to Run the Project
+##🎯 How to Run the Project
 
 1. Download or clone this repository.
 2. Open the project folder.

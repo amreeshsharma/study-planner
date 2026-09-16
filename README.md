@@ -31,7 +31,7 @@ study-planner/
 └── README.md
 
 
- 📱 Responsive Design
+ ##📱 Responsive Design
 
 This project is designed with a **Mobile-First** approach and works smoothly on:
 
